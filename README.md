@@ -1,5 +1,5 @@
 # kitti2pcl
-Converting KITTI dataset to PCL(PCD)
+Converting Velodyne scans to PCD files in KITTI dataset.
 
 ```
 $ mkdir build
